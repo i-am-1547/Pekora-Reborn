@@ -2,7 +2,7 @@
 
 **What is this?**  
 
-Pekora Reborn is a theme that reverts the page to the old Korone layout… but in this case, for Pekora!
+Pekora Reborn is a theme that reverts the Korone page to Pekora Page!
 
 ---
 
@@ -33,3 +33,6 @@ Then, install the theme scripts:
 ---
 
 If you have any issues, send me a message on my [Korone Profile](https://www.pekora.zip/users/8455/profile) (soon I will open a Discord).
+
+
+# NOTE: I WILL CONTINUE TO RELEASE UPDATES FOR THIS THEME
