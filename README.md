@@ -9,13 +9,19 @@ Pekora Reborn is a theme that reverts the Korone page to Pekora Page!
 ## Previews
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/i-am-1547/Pekora-Reborn/refs/heads/Thumbnails/Preview1.png" alt="Preview 1" width="250">
-    <img src="https://raw.githubusercontent.com/i-am-1547/Pekora-Reborn/refs/heads/Thumbnails/Preview2.png" alt="Preview 2" width="250">
-    <img src="https://raw.githubusercontent.com/i-am-1547/Pekora-Reborn/refs/heads/Thumbnails/Preview3.png" alt="Preview 3" width="250">
+    <img src="https://raw.githubusercontent.com/i-am-1547/Pekora-Reborn/refs/heads/Thumbnails/Preview1.png" alt="Preview 1" width="450">
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/i-am-1547/Pekora-Reborn/refs/heads/Thumbnails/Preview4.png" alt="Preview 4" width="250">
-    <img src="https://raw.githubusercontent.com/i-am-1547/Pekora-Reborn/refs/heads/Thumbnails/Preview5.png" alt="Preview 5" width="250">
+    <img src="https://raw.githubusercontent.com/i-am-1547/Pekora-Reborn/refs/heads/Thumbnails/Preview2.png" alt="Preview 2" width="450">
+</p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/i-am-1547/Pekora-Reborn/refs/heads/Thumbnails/Preview3.png" alt="Preview 3" width="450">
+</p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/i-am-1547/Pekora-Reborn/refs/heads/Thumbnails/Preview4.png" alt="Preview 4" width="450">
+</p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/i-am-1547/Pekora-Reborn/refs/heads/Thumbnails/Preview5.png" alt="Preview 5" width="450">
 </p>
 
 ---
