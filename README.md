@@ -15,7 +15,7 @@ Pekora Reborn is a theme that reverts the Korone page to Pekora Page!
     <img src="https://raw.githubusercontent.com/i-am-1547/Pekora-Reborn/refs/heads/Thumbnails/Preview2.png" alt="Preview 2" width="450">
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/i-am-1547/Pekora-Reborn/refs/heads/Thumbnails/Preview3.png" alt="Preview 3" width="450">
+    <img src="https://raw.githubusercontent.com/i-am-1547/Pekora-Reborn/refs/heads/Thumbnails/Screenshot%202025-11-03%206.31.29%20PM.png" alt="Preview 3" width="450">
 </p>
 <p align="center">
     <img src="https://raw.githubusercontent.com/i-am-1547/Pekora-Reborn/refs/heads/Thumbnails/Preview4.png" alt="Preview 4" width="450">
