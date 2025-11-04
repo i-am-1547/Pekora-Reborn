@@ -34,7 +34,7 @@ First, install these extensions in your browser:
 
 Then, install the theme scripts:  
 - [PekoraReborn Logo CSS](https://greasyfork.org/en/scripts/554676-pekora-reborn-logo)  
-- [PekoraReborn Script](https://greasyfork.org/en/scripts/554674-pekora-reborn-script)
+- [Pekora Reborn Script](https://greasyfork.org/en/scripts/554759-pekora-reborn-script)
 
 ---
 
